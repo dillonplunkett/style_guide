@@ -2,8 +2,8 @@
 
 ## Basics
 
-Automatic code formatters can save you tons of time and they make it easy for
-collaborative projects to have consistent code formatting.
+Linters and automated code formatters can save you tons of time and they make
+it easy for collaborative projects to have consistent code formatting.
 
 - Use [Black](https://github.com/psf/black) and
 [Pylint](https://pylint.pycqa.org/en/latest/) for Python.
