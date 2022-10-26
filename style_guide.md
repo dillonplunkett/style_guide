@@ -8,7 +8,7 @@ it easy for collaborative projects to have consistent code formatting.
 - Use [Black](https://github.com/psf/black) and
 [Pylint](https://pylint.pycqa.org/en/latest/) for Python.
 - Use [styler](http://styler.r-lib.org/) and
-[linter](https://github.com/jimhester/lintr) for R.
+[lintr](https://github.com/jimhester/lintr) for R.
 - Use [Prettier](https://prettier.io/) for HTML, JavaScript, and CSS.
 
 Use default settings in all cases
